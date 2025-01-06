@@ -33,7 +33,7 @@ As seguintes métricas foram calculadas:
 
 ## Como Utilizar
 
-1.  Clone este repositório: `git clone <URL do repositório>`
+1.  Clone este repositório: https://github.com/aurianefs/Power-BI_Campanha_Marketing.git
 2.  Abra o arquivo `Análise campanha marketing.pbix` no Power BI Desktop.
 
  ## Como visualizar
